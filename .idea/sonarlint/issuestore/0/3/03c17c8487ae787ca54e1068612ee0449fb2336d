@@ -1,37 +1,0 @@
-
-Mpython:S1066¢"/Merge this if statement with the enclosing one.(¨ïÓ£ùÿÿÿÿ
-mpython:S3776·"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(èœı«
-jpython:S107î"MMethod "__init__" has 20 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
-Mpython:S1656¼"/Remove or correct this useless self-assignment.(´Ô‰Ñşÿÿÿÿ
-rpython:S1186ò"YAdd a nested comment explaining why this method is empty, or complete the implementation.(·ş“‡
-wpython:S1186õ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¨Éôüÿÿÿÿ
-rpython:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(ïé´‚úÿÿÿÿ
-mpython:S3776º
-"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(’Åµ»
-jpython:S107ç"MMethod "__init__" has 24 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
-rpython:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ú„Úüùÿÿÿÿ
-`python:S5799—"GMerge these implicitly concatenated strings; or did you forget a comma?(Ššµ
-Spython:S2836Ñ"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
-rpython:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(®Õ¡Õÿÿÿÿÿ
-Mpython:S1135¨"4Complete the task associated to this "TODO" comment.(§°”Î
-Rpython:S1135°"4Complete the task associated to this "TODO" comment.(ÇÇ¡çøÿÿÿÿ
-<python:S125»"Remove this commented out code.(å³ÎÁùÿÿÿÿ
-rpython:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(‡·ÌÑùÿÿÿÿ
-bpython:S3358Ï"IExtract this nested conditional expression into an independent statement.(µŞí˜
-gpython:S3358Õ"IExtract this nested conditional expression into an independent statement.(É©Âçûÿÿÿÿ
-jpython:S107Ò"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
-mpython:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(…Ä©‰
-Opython:S1481µ"1Replace unused local variable "colname" with "_".(Ã¢çÇøÿÿÿÿ
-Npython:S1481œ"5Replace unused local variable "parenttable" with "_".(œ°Üœ
-Rpython:S1135 "4Complete the task associated to this "TODO" comment.(ÚÚ¾åùÿÿÿÿ
-wpython:S1186§"YAdd a nested comment explaining why this method is empty, or complete the implementation.(òó“íûÿÿÿÿ
-jpython:S107û"MMethod "__init__" has 17 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
-Hpython:S1172œ"*Remove the unused function parameter "kw".(µşê¨şÿÿÿÿ
-rpython:S3776ƒ!"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(æØ¬öÿÿÿÿÿ
-Hpython:S1172Ò!"*Remove the unused function parameter "kw".(µşê¨şÿÿÿÿ
-jpython:S107Ö#"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
-Spython:S2836‚%"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
-rpython:S3776”'"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(íÅ–æÿÿÿÿÿ
-Rpython:S1135Ş("4Complete the task associated to this "TODO" comment.(â÷ıãøÿÿÿÿ
-lpython:S3776ø+"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÏÏ¸:
-msecrets:S6698â"SMake sure this PostgreSQL database password gets changed and removed from the code.(¨à¦˜
